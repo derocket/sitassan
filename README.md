@@ -10,6 +10,7 @@ Additionally, ASSAN BETA offers a wide range of online study materials. From lec
 We understand that ASSAN is currently in its beta version, and we appreciate your patience as we continue to improve and expand its functionality. Your feedback is crucial to us, and we encourage you to share your suggestions and ideas for enhancements. Together, we can shape the future of ASSAN BETA and create an even more seamless and comprehensive college experience.
 
 Thank you for choosing ASSAN BETA. We are committed to simplifying your college life and look forward to enhancing your experience as we further develop and refine the app. Stay tuned for updates and new features – exciting things are coming your way with ASSAN BETA!
+![assanmeme](https://github.com/derocket/sitassan/assets/130888056/a863be36-5bc5-44a9-bc60-5bd06e82e96e)
 
 
 
