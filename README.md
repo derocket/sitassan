@@ -15,3 +15,4 @@ Thank you for choosing ASSAN BETA. We are committed to simplifying your college 
 
 
 Download link: https://github.com/derocket/sitassan/blob/main/sitassan_v1.1.apk
+
