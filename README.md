@@ -19,4 +19,4 @@ Thank you for choosing ASSAN BETA. We are committed to simplifying your college 
 
 
 
-Download link[UPDATED]: https://github.com/derocket/sitassan/raw/main/sitassan_v1.4.apk
+Download link[UPDATED]: https://play.google.com/store/apps/details?id=com.sit.sitassan
